@@ -1,7 +1,7 @@
 ---
 name: Issue_Template
 about: 이슈를 생성해주세요.
-title: "[Name] 이슈 제목"
+title: "[Name/TYPE] 이슈 제목"
 labels: ''
 assignees: ''
 
